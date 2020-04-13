@@ -1,3 +1,3 @@
-# hello-world
+# Links to learn how to use Github
 
-this is an exercise.
+https://guides.github.com/activities/hello-world/
